@@ -169,3 +169,25 @@ body {
     z-index: 1;
   }
 }
+
+/* Corlors */
+
+.teal-bg {
+  background-color:  #008A96;
+}
+.secondary-bg {
+  background-color:  #80BC00;
+}
+.grey-bg {
+  background-color:  #A4A4A4;
+}
+
+.warning-bg {
+  background-color:  #FFB35B;
+}
+
+.white-bg {
+  background-color:  #FFB35B;
+}
+
+
