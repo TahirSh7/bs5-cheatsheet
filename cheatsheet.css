@@ -171,6 +171,11 @@ body {
 }
 
 /* Corlors */
+.bg-colors {
+  color: white;
+  height: 200px;
+  text-align: center;
+}
 
 .teal-bg {
   background-color:  #008A96;
@@ -186,8 +191,19 @@ body {
   background-color:  #FFB35B;
 }
 
-.white-bg {
-  background-color:  #FFB35B;
+.error-bg {
+  background-color:  #FF5B35;
 }
 
 
+/*  Border Raduis */
+
+.border-raduis-large {
+  border-radius: 32px;
+}
+.border-raduis-meduim {
+  border-radius: 12px;
+}
+.border-raduis-small {
+  border-radius: 8px;
+}

@@ -1,0 +1,53 @@
+:root {
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray-dark: #343a40;
+
+    /* Main Colors */
+    --bs-primary: #008A96;
+    --bs-secondary: #80BC00;
+    --bs-success: #45B275;
+    --bs-gray: #A4A4A4;
+    --bs-white:#fff;
+
+    /* Gray Category */
+    --bs-disabled:#D8D8D8;
+    --bs-disabled-2:#D9D9D9;
+    
+
+    /* Alerts Colors */
+    --bs-info: #0dcaf0;
+    --bs-warning: #FFB35B;
+    --bs-danger: #FF5B35; 
+    
+    /* Text Colors */
+    --text-primary: #1A1A1A;
+    --text-secondary: #575757;
+    --text-tertiary: #7F7F7F;
+    --text-quartinary: #AEAEAE;
+    --text-white: #ffffff;
+
+    /* Gradient Colors */
+    --health-gradient: linear-gradient(139deg, #008A96 17.58%, #80BC00 166.5%);
+    --professional-gradient:linear-gradient(111deg, #C8102E 25.55%, #008A96 95.51%);
+    --facility-gradient:linear-gradient(111deg, #008A96 11.02%, #00616B 101.18%);
+
+    /* Borsder */
+    --border-tint:#E7E7E7;
+
+    /* Footer Bg */
+    --footer-bg:#F5F9F9;
+
+    /* Fonts */
+    --font-dubai:'Dubai W23';
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  }
